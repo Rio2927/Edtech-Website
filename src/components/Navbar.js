@@ -27,11 +27,8 @@ function Navbar() {
 					<li class="nav-item ms-md-4 fs-5">
 						<Link class="nav-link" to="/Contact">Contact</Link>
 					</li>
-					<li class="nav-item ms-md-4 fs-5">
-						<a class="nav-link" href="/Careers">Careers</a>
-					</li>
 					<li class="nav-item ms-md-4 d-none d-md-block pe-4">
-						<a class="btn btn-success fs-5" href="">Login</a>
+						<Link class="btn btn-success fs-5" to="/Login">Login</Link>
 					</li>
 				</ul>
 			</div>

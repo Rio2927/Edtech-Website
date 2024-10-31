@@ -16,7 +16,7 @@ const Section1 = () => {
 				<div class="card border-0">
 					<a href=""><img alt="" class="img-fluid rounded" src="https://freefrontend.dev/assets/square.png"></img></a>
 					<div class="card-body px-0">
-						<a class="text-primary fw-semibold text-decoration-none" href="">Category</a>
+						<a class="text-success fw-semibold text-decoration-none" href="">Category</a>
 						<h3 class="fw-semibold my-2"><a class="text-decoration-none text-dark" href="">A short engaging title</a></h3>
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue risus sit amet dictum malesuada. Vestibulum viverra iaculis turpis, vitae varius lectus imperdiet at. Sed ultrices, ante vitae maximus laoreet, magna quam tincidunt ex, non faucibus justo dui commodo libero.</p>
 					</div>
@@ -28,7 +28,7 @@ const Section1 = () => {
 						<div class="card border-0">
 							<a href=""><img alt="" class="img-fluid rounded" src="https://freefrontend.dev/assets/square.png"></img></a>
 							<div class="card-body px-0">
-								<a class="text-primary fw-semibold text-decoration-none" href="">Category</a>
+								<a class="text-success fw-semibold text-decoration-none" href="">Category</a>
 								<h3 class="fw-semibold"><a class="text-decoration-none text-dark" href="">A short engaging post title</a></h3>
 							</div>
 						</div>
@@ -37,7 +37,7 @@ const Section1 = () => {
 						<div class="card border-0">
 							<a href=""><img alt="" class="img-fluid rounded" src="https://freefrontend.dev/assets/square.png"></img></a>
 							<div class="card-body px-0">
-								<a class="text-primary fw-semibold text-decoration-none" href="">Category</a>
+								<a class="text-success fw-semibold text-decoration-none" href="">Category</a>
 								<h3 class="fw-semibold"><a class="text-decoration-none text-dark" href="">A short engaging post title</a></h3>
 							</div>
 						</div>
@@ -46,7 +46,7 @@ const Section1 = () => {
 						<div class="card border-0">
 							<a href=""><img alt="" class="img-fluid rounded" src="https://freefrontend.dev/assets/square.png"></img></a>
 							<div class="card-body px-0">
-								<a class="text-primary fw-semibold text-decoration-none" href="">Category</a>
+								<a class="text-success fw-semibold text-decoration-none" href="">Category</a>
 								<h3 class="fw-semibold"><a class="text-decoration-none text-dark" href="">A short engaging post title</a></h3>
 							</div>
 						</div>
@@ -55,7 +55,7 @@ const Section1 = () => {
 						<div class="card border-0">
 							<a href=""><img alt="" class="img-fluid rounded" src="https://freefrontend.dev/assets/square.png"></img></a>
 							<div class="card-body px-0">
-								<a class="text-primary fw-semibold text-decoration-none" href="">Category</a>
+								<a class="text-success fw-semibold text-decoration-none" href="">Category</a>
 								<h3 class="fw-semibold"><a class="text-decoration-none text-dark" href="">A short engaging post title</a></h3>
 							</div>
 						</div>

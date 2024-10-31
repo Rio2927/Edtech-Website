@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from "react-router-dom";
 
 const Section1 = () => {
   return (
@@ -26,10 +27,10 @@ const Section1 = () => {
 							$19
 						</div>
 						<ul class="list-unstyled mt-4">
-							<li class="mb-3">1 Domain</li>
-							<li class="mb-3">1,000 Visitors</li>
+							<li class="mb-3">Pre-recorded Lessons</li>
+							<li class="mb-3">Affordable</li>
 							<li class="mb-3">24/7 Support</li>
-						</ul><a class="btn btn-success btn-lg mt-4" href="">Learn more</a>
+						</ul><Link class="btn btn-success btn-lg mt-4" to = "/Standardcourses">Learn more</Link>
 					</div>
 				</div>
 			</div>
@@ -45,10 +46,10 @@ const Section1 = () => {
 							$26
 						</div>
 						<ul class="list-unstyled mt-4">
-							<li class="mb-3">10 Domains</li>
-							<li class="mb-3">10,000 Visitors</li>
+							<li class="mb-3">Live Classes + Pre-recorded Lectures</li>
+							<li class="mb-3">Doubt Solving</li>
 							<li class="mb-3">24/7 Support</li>
-						</ul><a class="btn btn-success btn-lg mt-4" href="">Learn more</a>
+						</ul><Link class="btn btn-success btn-lg mt-4" to = "/Pluscourses">Learn more</Link>
 					</div>
 				</div>
 			</div>
@@ -65,10 +66,10 @@ const Section1 = () => {
 							$34
 						</div>
 						<ul class="list-unstyled mt-4">
-							<li class="mb-3">Unlimited Domains</li>
-							<li class="mb-3">Unlimited Visitors</li>
+							<li class="mb-3">Live Classes +  + Live Doubt Solving</li>
+							<li class="mb-3">Pre-recorded lectures</li>
 							<li class="mb-3">24/7 Support</li>
-						</ul><a class="btn btn-success btn-lg mt-4" href="">Learn more</a>
+						</ul><Link class="btn btn-success btn-lg mt-4" to = "/Procourses">Learn more</Link>
 					</div>
 				</div>
 			</div>
@@ -84,10 +85,10 @@ const Section1 = () => {
 							$49
 						</div>
 						<ul class="list-unstyled mt-4">
-							<li class="mb-3">Unmetered Domains</li>
-							<li class="mb-3">Unmetered Visitors</li>
+							<li class="mb-3">Pro + Added Features</li>
+							<li class="mb-3">Unlimited Practice Questions</li>
 							<li class="mb-3">24/7 Support</li>
-						</ul><a class="btn btn-success btn-lg mt-4" href="">Learn more</a>
+						</ul><Link class="btn btn-success btn-lg mt-4" to = "/Ultimatecourses">Learn more</Link>
 					</div>
 				</div>
 			</div>

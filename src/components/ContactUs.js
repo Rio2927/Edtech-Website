@@ -71,7 +71,11 @@ function ContactUs() {
 		</div>
 	</div>
 </section>
+<section>
+	<h3 class="text-center">Wanna start your career with us? - Drop your resume on careers@Edgo.com</h3>
+</section>
     </div>
+	
   );
 }
 
