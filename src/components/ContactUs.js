@@ -8,13 +8,14 @@ import Testimonials from "./HomeComponents/Testimonials"
 function ContactUs() {
   return (
     <div>
+		<h3 class="text-center py-5">Wanna start your career with us? - Drop your resume on careers@Edgo.com</h3>
+		<h3 class="text-center">OR</h3>
         <section class="py-5">
 	<div class="container">
 		<div class="row justify-content-center text-center mb-3">
 			<div class="col-lg-8 col-xxl-7">
-				<span class="text-muted">Let's Talk</span>
 				<h2 class="display-5 fw-bold mb-3">Contact Us</h2>
-				<p class="lead">Lorem ipsum dolor, sit amet elit Quamnitm veniam dicta, quos nemo minima nulla ducimus officii nulla ducimus officiis! Lorem ipsum dolor, sit amet elit Quamnitm.</p>
+				<p class="lead">Get in touch with us and we will let you know whenever we have a vacancy</p>
 			</div>
 		</div>
 		<div class="row justify-content-between">
@@ -72,7 +73,7 @@ function ContactUs() {
 	</div>
 </section>
 <section>
-	<h3 class="text-center">Wanna start your career with us? - Drop your resume on careers@Edgo.com</h3>
+	
 </section>
     </div>
 	

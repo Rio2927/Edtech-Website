@@ -1,5 +1,9 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.min";
+import T1 from "./images/T1.jpg"
+import T2 from "./images/T2.jpeg"
+import T3 from "./images/T3.jpg"
+import T4 from "./images/T4.jpg"
 
 function Testimonials() {
   return (
@@ -7,7 +11,7 @@ function Testimonials() {
       <div class="container">
         <div class="row justify-content-center text-center mb-2 mb-lg-4">
           <div class="col-12 col-lg-8 col-xxl-7 text-center mx-auto">
-            <span class="text-muted">Raving Fans</span>
+            <span class="text-muted">Alumni</span>
             <h2 class="display-5 fw-bold">Hear from Our Achievers</h2>
             <p class="lead">
             Hear from those who’ve taken the leap, mastered new skills, and redefined their futures.
@@ -18,9 +22,8 @@ function Testimonials() {
           <div class="col-lg-6 d-flex align-items-start">
             <img
               alt=""
-              class="img-fluid rounded-circle me-3"
-              height="96"
-              src="https://freefrontend.dev/assets/square-small.png"
+              class="img-fluid me-3"
+              src={T1}
               width="96"
             ></img>
             <div class="px-3 px-md-2">
@@ -48,9 +51,8 @@ function Testimonials() {
           <div class="col-lg-6 d-flex align-items-start">
             <img
               alt=""
-              class="img-fluid rounded-circle me-3"
-              height="96"
-              src="https://freefrontend.dev/assets/square-small.png"
+              class="img-fluid me-3"
+              src={T2}
               width="96"
             ></img>
             <div class="px-3 px-md-2">
@@ -78,9 +80,8 @@ function Testimonials() {
           <div class="col-lg-6 d-flex align-items-start">
             <img
               alt=""
-              class="img-fluid rounded-circle me-3"
-              height="96"
-              src="https://freefrontend.dev/assets/square-small.png"
+              class="img-fluid me-3"
+              src={T3}
               width="96"
             ></img>
             <div class="px-3 px-md-2">
@@ -108,9 +109,8 @@ function Testimonials() {
           <div class="col-lg-6 d-flex align-items-start">
             <img
               alt=""
-              class="img-fluid rounded-circle me-3"
-              height="96"
-              src="https://freefrontend.dev/assets/square-small.png"
+              class="img-fluid me-3"
+              src={T4}
               width="96"
             ></img>
             <div class="px-3 px-md-2">

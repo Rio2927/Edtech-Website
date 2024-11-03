@@ -1,4 +1,5 @@
 import "../../../node_modules/bootstrap/dist/css/bootstrap.min.css"
+import F7 from "./Images/7.jpg"
 
 
 
@@ -8,7 +9,7 @@ function Section3() {
 	<div class="container">
 		<div class="row justify-content-center text-center mb-3">
 			<div class="col-lg-8 col-xl-7">
-				<span class="text-muted">Features</span>
+				<span class="text-muted">What we Offer?</span>
 				<h2 class="display-5 fw-bold">Our Features</h2>
 				<p class="lead">Discover the Key Features That Set Us Apart in Education</p>
 			</div>
@@ -49,7 +50,7 @@ function Section3() {
 					</div>
 				</div>
 			</div>
-			<div class="col-md-4 pe-lg-5 order-1 order-md-2"><img alt="" class="img-fluid rounded" src="https://freefrontend.dev/assets/rectangle-tall2.png"></img></div>
+			<div class="col-md-4 pe-lg-5 order-1 order-md-2"><img alt="" class="img-fluid rounded" src = {F7}></img></div>
 			<div class="col-md-4 ps-lg-5 order-3 order-md-3">
 				<div class="d-flex mb-4 mt-5 mt-md-0">
 					<div class="text-muted">
@@ -81,7 +82,7 @@ function Section3() {
 						<path d="M1 13.5A1.5 1.5 0 0 0 2.5 15h11a1.5 1.5 0 0 0 1.5-1.5v-6a.5.5 0 0 0-1 0v6a.5.5 0 0 1-.5.5h-11a.5.5 0 0 1-.5-.5v-11a.5.5 0 0 1 .5-.5H9a.5.5 0 0 0 0-1H2.5A1.5 1.5 0 0 0 1 2.5v11z" fill-rule="evenodd"></path></svg>
 					</div>
 					<div class="ms-4">
-						<h5 class="fw-bold">1Certification and Career Services</h5>
+						<h5 class="fw-bold">Certification and Career Services</h5>
 						<p class="fw-light mb-0">Earn recognized certificates upon course completion and access resources like resume building and job placement assistance.</p>
 					</div>
 				</div>

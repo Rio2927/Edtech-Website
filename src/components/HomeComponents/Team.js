@@ -1,5 +1,11 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min';
+import Team1 from "./images/Team1.jpg"
+import Team2 from "./images/Team2.jpg"
+import Team3 from "./images/Team3.jpg"
+import Team4 from "./images/Team4.jpg"
+import Team5 from "./images/Team5.jpg"
+import Team6 from "./images/Team6.jpg"
 
 
 
@@ -29,14 +35,13 @@ function Team() {
                       <img
                         alt=""
                         class="img-fluid"
-                        src="https://freefrontend.dev/assets/rectangle-wide.png"
+                        src = {Team1}
                       ></img>
                       <div class="card-body text-center mt-3">
-                        <h6>Catchy Title One</h6>
-                        <div class="text-muted">Project Details</div>
+                        <h6>Mr. Anthony D'souza</h6>
+                        <div class="text-muted">Business Management Expert</div>
                         <p class="mt-3">
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit ut.
+                          With 7+ years of experience,he is the Head of Business Administration
                         </p>
                       </div>
                     </div>
@@ -46,14 +51,14 @@ function Team() {
                       <img
                         alt=""
                         class="img-fluid"
-                        src="https://freefrontend.dev/assets/rectangle-wide.png"
+                        src = {Team2}
                       ></img>
                       <div class="card-body text-center mt-3">
-                        <h6>Catchy Title Two</h6>
-                        <div class="text-muted">Project Details</div>
+                        <h6>Ms. Angel Watson</h6>
+                        <div class="text-muted">Coding Expert (Python)</div>
                         <p class="mt-3">
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit ut.
+                          With hands on experience in Tech giants,she is the
+                          coding spearhead at Edgo
                         </p>
                       </div>
                     </div>
@@ -63,14 +68,14 @@ function Team() {
                       <img
                         alt=""
                         class="img-fluid"
-                        src="https://freefrontend.dev/assets/rectangle-wide.png"
+                        src = {Team3}
                       ></img>
                       <div class="card-body text-center mt-3">
-                        <h6>Catchy Title Three</h6>
-                        <div class="text-muted">Project Details</div>
+                        <h6>Mr. Joe Headstone</h6>
+                        <div class="text-muted">Mathematics Wizard</div>
                         <p class="mt-3">
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit ut.
+                          With mastery over the subject,he is the leading 
+                          faculty at Edgo
                         </p>
                       </div>
                     </div>
@@ -84,14 +89,14 @@ function Team() {
                       <img
                         alt=""
                         class="img-fluid"
-                        src="https://freefrontend.dev/assets/rectangle-wide.png"
+                        src = {Team4}
                       ></img>
                       <div class="card-body text-center mt-3">
-                        <h6>Catchy Title Four</h6>
-                        <div class="text-muted">Project Details</div>
+                        <h6>Mr. Soham Gupta</h6>
+                        <div class="text-muted">The Chemist</div>
                         <p class="mt-3">
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit ut.
+                          With infectious passion for chemistry,he has trained 
+                          multiple call-getters from top universities
                         </p>
                       </div>
                     </div>
@@ -101,14 +106,14 @@ function Team() {
                       <img
                         alt=""
                         class="img-fluid"
-                        src="https://freefrontend.dev/assets/rectangle-wide.png"
+                        src = {Team5}
                       ></img>
                       <div class="card-body text-center mt-3">
-                        <h6>Catchy Title Five</h6>
-                        <div class="text-muted">Project Details</div>
+                        <h6>Mr. Bryan O'Neil </h6>
+                        <div class="text-muted">The Next Newton</div>
                         <p class="mt-3">
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit ut.
+                          With passion for Physics,he is the leading researcher for 
+                          Quantumn Energy
                         </p>
                       </div>
                     </div>
@@ -118,14 +123,14 @@ function Team() {
                       <img
                         alt=""
                         class="img-fluid"
-                        src="https://freefrontend.dev/assets/rectangle-wide.png"
+                        src = {Team6}
                       ></img>
                       <div class="card-body text-center mt-3">
-                        <h6>Catchy Title Six</h6>
-                        <div class="text-muted">Project Details</div>
+                        <h6>Ms. Lisa Faulkner</h6>
+                        <div class="text-muted">Coding Expert (Web)</div>
                         <p class="mt-3">
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit ut.
+                          With un-commonly high intellect and enthusiasm,
+                          she is the leading Software Engineer 
                         </p>
                       </div>
                     </div>

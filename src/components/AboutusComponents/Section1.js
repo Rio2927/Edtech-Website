@@ -1,4 +1,5 @@
 import "../../../node_modules/bootstrap/dist/css/bootstrap.min.css"
+import A1 from "./Images/1.jpg"
 
 
 
@@ -31,7 +32,7 @@ function Section1() {
           <div class="col-md-5 order-1 order-md-2">
             <img
               class="img-fluid rounded-3"
-              src="https://freefrontend.dev/assets/square.png"
+              src={A1}
             ></img>
           </div>
         </div>

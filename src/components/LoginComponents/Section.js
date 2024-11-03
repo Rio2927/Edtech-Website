@@ -9,7 +9,7 @@ const Section = () => {
 			<div class="col-lg-8">
 				<span class="text-muted">Sign Up</span>
 				<h2 class="display-5 fw-bold">Get Started</h2>
-				<p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam feugiat erat quis pulvinar semper. Cras commodo vitae libero ut consequat.</p>
+				<p class="lead">Login to access personalized resources, track your progress, and connect with our learning community.</p>
 				<div class="row g-3 mt-4">
 					<div class="col-md-6">
 						<div class="d-grid">
@@ -43,7 +43,7 @@ const Section = () => {
 					</form>
 					<div class="row justify-content-center mt-4">
 						<div class="col-lg-8">
-							<p class="small text-muted"><em>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Nam feugiat erat quis pulvinar semper.</em></p>
+							<p class="small text-muted"><em>Start your journey with us today and gain access to tools that make learning engaging, effective, and fun!</em></p>
 						</div>
 					</div>
 				</div>

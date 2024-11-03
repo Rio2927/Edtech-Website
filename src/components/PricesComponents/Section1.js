@@ -7,9 +7,8 @@ const Section1 = () => {
 	<div class="container">
 		<div class="row justify-content-center text-center mb-2 mb-lg-4">
 			<div class="col-12 col-lg-8 col-xxl-7 text-center mx-auto">
-				<span class="text-muted">Pricing Table</span>
 				<h2 class="display-5 fw-bold">Our Pricing</h2>
-				<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta harum ipsum venenatis metus sem veniam eveniet aperiam suscipit.</p>
+				<p class="lead">Choose from a variety of packages and according to your own needs.</p>
 			</div>
 		</div>
 		<div class="row">

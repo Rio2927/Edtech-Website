@@ -1,4 +1,6 @@
 import "../../../node_modules/bootstrap/dist/css/bootstrap.min.css"
+import img1 from "./images/LP1.jpg"
+
 
 function Hero() {
   return (
@@ -10,7 +12,7 @@ function Hero() {
 				<h1 class="display-3 fw-bold">Anyone, anywhere, can start <span class="text-success">Edgo!</span></h1>
 				<p class="lead my-4">Empower your learning journey with industry-relevant skills, personalized mentoring, and hands-on projects.</p><a class="btn btn-lg btn-success" href="">Get Started</a>
 			</div>
-			<div class="col-lg-6"><img alt="" class="img-fluid" src="https://freefrontend.dev/assets/square.png"></img></div>
+			<div class="col-lg-6"><img alt="" class="img-fluid" src = {img1}></img></div>
 		</div>
 		<div class="row mt-5">
 			<div class="col-md-3 col-sm-6 mb-3 mb-md-0">
