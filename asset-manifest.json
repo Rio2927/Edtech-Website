@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Edtech-Website/static/css/main.c0730433.css",
+    "main.js": "/Edtech-Website/static/js/main.0ae377ed.js",
+    "static/media/LP1.jpg": "/Edtech-Website/static/media/LP1.e549cda2284b85de0eb1.jpg",
+    "static/media/T4.jpg": "/Edtech-Website/static/media/T4.887159cce13d95550c8d.jpg",
+    "static/media/T2.jpeg": "/Edtech-Website/static/media/T2.f0e3e4db46d95544e9ae.jpeg",
+    "static/media/T3.jpg": "/Edtech-Website/static/media/T3.5f0cec7e21d958e004d7.jpg",
+    "static/media/1.jpg": "/Edtech-Website/static/media/1.8b9d6165e1807f8072c8.jpg",
+    "static/media/2.jpg": "/Edtech-Website/static/media/2.1bc1cd9b3d2b4b37bd76.jpg",
+    "static/media/T1.jpg": "/Edtech-Website/static/media/T1.2b5029031ba5cd1434db.jpg",
+    "static/media/7.jpg": "/Edtech-Website/static/media/7.9b39d73722d5c6098f28.jpg",
+    "static/media/4.jpg": "/Edtech-Website/static/media/4.30d4f7873e01e18af07a.jpg",
+    "static/media/5.jpg": "/Edtech-Website/static/media/5.3ad890ed9eb85a7d67f2.jpg",
+    "static/media/3.jpg": "/Edtech-Website/static/media/3.8197d87a08b2a3c86d24.jpg",
+    "static/media/8.jpg": "/Edtech-Website/static/media/8.24bf262522bdb00c860d.jpg",
+    "static/media/6.jpg": "/Edtech-Website/static/media/6.0cd91c380ce007fa9268.jpg",
+    "static/media/Team2.jpg": "/Edtech-Website/static/media/Team2.467f63a06015f98fa2e1.jpg",
+    "static/media/Team4.jpg": "/Edtech-Website/static/media/Team4.6f030a30500be6b354a5.jpg",
+    "static/media/Edgo-cropped.png": "/Edtech-Website/static/media/Edgo-cropped.d26248911fc59325ead1.png",
+    "static/media/3.png": "/Edtech-Website/static/media/3.6c7051802f77bc2dc523.png",
+    "static/media/Edgo (Black-bg).png": "/Edtech-Website/static/media/Edgo (Black-bg).23d1a36337ff06df8939.png",
+    "static/media/Team6.jpg": "/Edtech-Website/static/media/Team6.a7a8c047195c29163d5e.jpg",
+    "static/media/Team3.jpg": "/Edtech-Website/static/media/Team3.a8dc970a4f203c952bbf.jpg",
+    "static/media/Team1.jpg": "/Edtech-Website/static/media/Team1.99082709f7065f2e19bb.jpg",
+    "static/media/slick.svg": "/Edtech-Website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Edtech-Website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Edtech-Website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Edtech-Website/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Edtech-Website/index.html",
+    "main.c0730433.css.map": "/Edtech-Website/static/css/main.c0730433.css.map",
+    "main.0ae377ed.js.map": "/Edtech-Website/static/js/main.0ae377ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0730433.css",
+    "static/js/main.0ae377ed.js"
+  ]
+}
