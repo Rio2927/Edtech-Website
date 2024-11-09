@@ -15,7 +15,6 @@ function Team() {
         <div class="container">
           <div class="row justify-content-center text-center mb-3 mb-md-5">
             <div class="col-lg-8 col-xxl-7">
-              <span class="text-muted">Showcase</span>
               <h2 class="display-5 fw-bold mb-3">The People Powering Our Mission</h2>
               <p class="lead">
               Driven by innovation and excellence, our team is committed to providing top-notch education.

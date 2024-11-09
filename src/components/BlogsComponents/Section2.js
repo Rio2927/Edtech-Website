@@ -7,7 +7,6 @@ const Section2 = () => {
 	<div class="container">
 		<div class="row justify-content-center text-center mb-4 mb-md-5">
 			<div class="col-xl-9 col-xxl-8">
-				<span class="text-muted">Read More</span>
 				<h2 class="display-5 fw-bold">Latest Blogs</h2>
 				<p class="lead">Share your expertise, inspire educators and learners, and join a community committed to advancing the future of education</p>
 			</div>

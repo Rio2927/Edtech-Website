@@ -13,7 +13,6 @@ function Section2() {
 	<div class="container">
 		<div class="row justify-content-center text-center mb-2 mb-lg-4">
 			<div class="col-12 col-lg-8 col-xxl-7 text-center mx-auto">
-				<span class="text-muted">Showcase</span>
 				<h2 class="display-5 fw-bold">Our Gallery</h2>
 				<p class="lead">Take a glimpse into the vibrant learning community at Edgo. 
 					From interactive workshops and live mentor sessions to success stories 

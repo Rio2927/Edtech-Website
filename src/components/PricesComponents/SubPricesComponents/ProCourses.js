@@ -9,7 +9,7 @@ const ProCourses = () => {
 			<div class="col-12 col-lg-8 col-xxl-7 text-center mx-auto">
 				<span class="text-muted">Pricing Table</span>
 				<h2 class="display-5 fw-bold">Our Pricing</h2>
-				<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta harum ipsum venenatis metus sem veniam eveniet aperiam suscipit.</p>
+				<p class="lead">Unlock Expertise, Achieve Excellence.</p>
 			</div>
 		</div>
 		<div class="card border-0 mb-3">
@@ -18,7 +18,7 @@ const ProCourses = () => {
 					<div class="col-md-3">
 						<h5 class="fw-bold mb-0">Tech</h5>
 						<div class="display-3 fw-bold mt-1">
-							$19
+							$36
 						</div>
 						<div>
 							Monthly
@@ -26,16 +26,16 @@ const ProCourses = () => {
 					</div>
 					<div class="col-md-3">
 						<ul class="list-unstyled mt-4 mt-md-3">
-							<li class="mb-3">1 Domain</li>
-							<li class="mb-3">1,000 Visitors</li>
-							<li class="mb-3">24/7 Support</li>
+							<li class="mb-3">Python,Machine & Deep Learning</li>
+							<li class="mb-3">Rust & Solana Interoduction</li>
+							<li class="mb-3">Web Development</li>
 						</ul>
 					</div>
 					<div class="col-md-3">
 						<ul class="list-unstyled mt-3">
-							<li class="mb-3">Free Control Panel</li>
-							<li class="mb-3">Free 1-Click Installs</li>
-							<li class="mb-3">Free Let's Encrypt</li>
+							<li class="mb-3">Data Analytics</li>
+							<li class="mb-3">Javascript Frameworks</li>
+							<li class="mb-3">Java and DSA</li>
 						</ul>
 					</div>
 					<div class="col-md-3">
@@ -50,7 +50,7 @@ const ProCourses = () => {
 					<div class="col-md-3">
 						<h5 class="fw-bold mb-0">Marketing</h5>
 						<div class="display-3 fw-bold mt-1 text-success">
-							$26
+							$35
 						</div>
 						<div>
 							Monthly
@@ -58,16 +58,16 @@ const ProCourses = () => {
 					</div>
 					<div class="col-md-3">
 						<ul class="list-unstyled mt-4 mt-md-3">
-							<li class="mb-3">10 Domains</li>
-							<li class="mb-3">10,000 Visitors</li>
-							<li class="mb-3">24/7 Support</li>
+							<li class="mb-3">Advanced Digital Marketing</li>
+							<li class="mb-3">SEO & SEM</li>
+							<li class="mb-3">Email Marketing</li>
 						</ul>
 					</div>
 					<div class="col-md-3">
 						<ul class="list-unstyled mt-3">
-							<li class="mb-3">Free Control Panel</li>
-							<li class="mb-3">Free 1-Click Installs</li>
-							<li class="mb-3">Free Let's Encrypt</li>
+							<li class="mb-3">Data Insights Utilisation</li>
+							<li class="mb-3">Consumer Pyschology</li>
+							<li class="mb-3">Marketing Automation</li>
 						</ul>
 					</div>
 					<div class="col-md-3">
@@ -81,7 +81,7 @@ const ProCourses = () => {
 					<div class="col-md-3">
 						<h5 class="fw-bold mb-0">High School</h5>
 						<div class="display-3 fw-bold mt-1 text-success">
-							$26
+							$38
 						</div>
 						<div>
 							Monthly
@@ -89,16 +89,16 @@ const ProCourses = () => {
 					</div>
 					<div class="col-md-3">
 						<ul class="list-unstyled mt-4 mt-md-3">
-							<li class="mb-3">10 Domains</li>
-							<li class="mb-3">10,000 Visitors</li>
-							<li class="mb-3">24/7 Support</li>
+							<li class="mb-3">Interactive Labs Simulations</li>
+							<li class="mb-3">Application Based Learning</li>
+							<li class="mb-3">Guest Lectures from SME's</li>
 						</ul>
 					</div>
 					<div class="col-md-3">
 						<ul class="list-unstyled mt-3">
-							<li class="mb-3">Free Control Panel</li>
-							<li class="mb-3">Free 1-Click Installs</li>
-							<li class="mb-3">Free Let's Encrypt</li>
+							<li class="mb-3">Project Based Assingments</li>
+							<li class="mb-3">AI Powered Adaptive Learning</li>
+							<li class="mb-3">Timed Practice Tests</li>
 						</ul>
 					</div>
 					<div class="col-md-3">
@@ -114,7 +114,7 @@ const ProCourses = () => {
 					<div class="col-md-3">
 						<h5 class="fw-bold mb-0">JEE & NEET</h5>
 						<div class="display-3 fw-bold mt-1">
-							$34
+							$39
 						</div>
 						<div>
 							Monthly
@@ -122,16 +122,16 @@ const ProCourses = () => {
 					</div>
 					<div class="col-md-3">
 						<ul class="list-unstyled mt-4 mt-md-3">
-							<li class="mb-3">Unlimited Domains</li>
-							<li class="mb-3">Unlimited Visitors</li>
-							<li class="mb-3">24/7 Support</li>
+							<li class="mb-3">Complete Syllabus</li>
+							<li class="mb-3">Advanced Modules</li>
+							<li class="mb-3">Mock Tests</li>
 						</ul>
 					</div>
 					<div class="col-md-3">
 						<ul class="list-unstyled mt-3">
-							<li class="mb-3">Free Control Panel</li>
-							<li class="mb-3">Free 1-Click Installs</li>
-							<li class="mb-3">Free Let's Encrypt</li>
+							<li class="mb-3">Formula Books</li>
+							<li class="mb-3">High Quality Notes</li>
+							<li class="mb-3">Adaptive Learning</li>
 						</ul>
 					</div>
 					<div class="col-md-3">

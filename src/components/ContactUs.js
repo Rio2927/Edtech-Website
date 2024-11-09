@@ -56,11 +56,11 @@ function ContactUs() {
 				</div>
 				<div class="mb-4">
 					<h5>Phone</h5>
-					<p>+1 123-456-7890</p>
+					<p>+91 4452662547</p>
 				</div>
 				<div class="mb-4">
 					<h5>Email</h5>
-					<p>hello@yourdomain.com</p>
+					<p>connect@edgo.com</p>
 				</div>
 				<div class="mb-4">
 					<h5>Socials</h5><a class="me-2" href=""><svg class="bi bi-pinterest text-success" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">

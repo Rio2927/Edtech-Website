@@ -10,7 +10,6 @@ const Section3 = () => {
 	<div class="container">
 		<div class="row justify-content-center text-center mb-4 mb-md-5">
 			<div class="col-xl-9 col-xxl-8">
-				<span class="text-muted">Read More</span>
 				<h2 class="display-5 fw-bold">Content that went famous!</h2>
 				<p class="lead">Discover what it really needs to be successful in any square of life.</p>
 			</div>

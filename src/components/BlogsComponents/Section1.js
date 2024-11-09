@@ -11,7 +11,6 @@ const Section1 = () => {
 	<div class="container">
 		<div class="row justify-content-center text-center mb-4 mb-md-5">
 			<div class="col-xl-9 col-xxl-8">
-				<span class="text-muted">Read More</span>
 				<h2 class="display-5 fw-bold">Blogs</h2>
 				<p class="lead">Explore the latest advancements and ideas shaping the future of learning and teaching.</p>
 			</div>

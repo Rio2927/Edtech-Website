@@ -9,7 +9,7 @@ const StandardCourses = () => {
 			<div class="col-12 col-lg-8 col-xxl-7 text-center mx-auto">
 				<span class="text-muted">Pricing Table</span>
 				<h2 class="display-5 fw-bold">Our Pricing</h2>
-				<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta harum ipsum venenatis metus sem veniam eveniet aperiam suscipit.</p>
+				<p class="lead">Build Strong Foundations, Unlock Future Success.</p>
 			</div>
 		</div>
 		<div class="card border-0 mb-3">
@@ -18,7 +18,7 @@ const StandardCourses = () => {
 					<div class="col-md-3">
 						<h5 class="fw-bold mb-0">Tech</h5>
 						<div class="display-3 fw-bold mt-1">
-							$30
+							$20
 						</div>
 						<div>
 							Monthly
@@ -26,16 +26,16 @@ const StandardCourses = () => {
 					</div>
 					<div class="col-md-3">
 						<ul class="list-unstyled mt-4 mt-md-3">
-							<li class="mb-3">1 Domain</li>
-							<li class="mb-3">1,000 Visitors</li>
-							<li class="mb-3">24/7 Support</li>
+							<li class="mb-3">Python</li>
+							<li class="mb-3">Ruby on Rails</li>
+							<li class="mb-3">Machine Learning</li>
 						</ul>
 					</div>
 					<div class="col-md-3">
 						<ul class="list-unstyled mt-3">
-							<li class="mb-3">Free Control Panel</li>
-							<li class="mb-3">Free 1-Click Installs</li>
-							<li class="mb-3">Free Let's Encrypt</li>
+							<li class="mb-3">C</li>
+							<li class="mb-3">C++</li>
+							<li class="mb-3">Matlab</li>
 						</ul>
 					</div>
 					<div class="col-md-3">
@@ -58,16 +58,16 @@ const StandardCourses = () => {
 					</div>
 					<div class="col-md-3">
 						<ul class="list-unstyled mt-4 mt-md-3">
-							<li class="mb-3">10 Domains</li>
-							<li class="mb-3">10,000 Visitors</li>
-							<li class="mb-3">24/7 Support</li>
+							<li class="mb-3">Marketing Fundamentals Overview</li>
+							<li class="mb-3">Consumer Behaviour Analysis</li>
+							<li class="mb-3">Branding & Positioning</li>
 						</ul>
 					</div>
 					<div class="col-md-3">
 						<ul class="list-unstyled mt-3">
-							<li class="mb-3">Free Control Panel</li>
-							<li class="mb-3">Free 1-Click Installs</li>
-							<li class="mb-3">Free Let's Encrypt</li>
+							<li class="mb-3">Product Pricing Strategies</li>
+							<li class="mb-3">SEO</li>
+							<li class="mb-3">Sales Funnel Optimization</li>
 						</ul>
 					</div>
 					<div class="col-md-3">
@@ -82,7 +82,7 @@ const StandardCourses = () => {
 					<div class="col-md-3">
 						<h5 class="fw-bold mb-0">High School</h5>
 						<div class="display-3 fw-bold mt-1 text-success">
-							$26
+							$22
 						</div>
 						<div>
 							Monthly
@@ -90,16 +90,16 @@ const StandardCourses = () => {
 					</div>
 					<div class="col-md-3">
 						<ul class="list-unstyled mt-4 mt-md-3">
-							<li class="mb-3">10 Domains</li>
-							<li class="mb-3">10,000 Visitors</li>
-							<li class="mb-3">24/7 Support</li>
+							<li class="mb-3">Core Subject Coverage</li>
+							<li class="mb-3">Interactive Learning Materials</li>
+							<li class="mb-3">Live Class Sessions</li>
 						</ul>
 					</div>
 					<div class="col-md-3">
 						<ul class="list-unstyled mt-3">
-							<li class="mb-3">Free Control Panel</li>
-							<li class="mb-3">Free 1-Click Installs</li>
-							<li class="mb-3">Free Let's Encrypt</li>
+							<li class="mb-3">Skill Development Workshops</li>
+							<li class="mb-3">Peer Discussion Groups</li>
+							<li class="mb-3">Homework & Assignments</li>
 						</ul>
 					</div>
 					<div class="col-md-3">
@@ -114,7 +114,7 @@ const StandardCourses = () => {
 					<div class="col-md-3">
 						<h5 class="fw-bold mb-0">JEE & NEET</h5>
 						<div class="display-3 fw-bold mt-1">
-							$34
+							$23
 						</div>
 						<div>
 							Monthly
@@ -122,16 +122,16 @@ const StandardCourses = () => {
 					</div>
 					<div class="col-md-3">
 						<ul class="list-unstyled mt-4 mt-md-3">
-							<li class="mb-3">Unlimited Domains</li>
-							<li class="mb-3">Unlimited Visitors</li>
+							<li class="mb-3">PYQ Practice</li>
+							<li class="mb-3">Feasible Timings</li>
 							<li class="mb-3">24/7 Support</li>
 						</ul>
 					</div>
 					<div class="col-md-3">
 						<ul class="list-unstyled mt-3">
-							<li class="mb-3">Free Control Panel</li>
-							<li class="mb-3">Free 1-Click Installs</li>
-							<li class="mb-3">Free Let's Encrypt</li>
+							<li class="mb-3">Top College Network</li>
+							<li class="mb-3">Interactive Assignments</li>
+							<li class="mb-3">Live Sessions</li>
 						</ul>
 					</div>
 					<div class="col-md-3">
